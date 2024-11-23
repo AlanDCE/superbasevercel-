@@ -78,10 +78,10 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'python_vercel_task',
-        'USER': 'sample_user',
-        'PASSWORD': 'password',
+        'USER': 'Alan',
+        'PASSWORD': '297030',
         'HOST': 'localhost',
-        'PORT': '5432',
+        'PORT': '5433',
     }
 }
 
